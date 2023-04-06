@@ -208,26 +208,3 @@ main {
     flex-basis: 35%;
     margin: 10px 0 0;
 }
-
-@media screen and (max-width: 1600px) {
-    body { 
-        font-size: 14px;
-    }
-    main {
-        width: 90vw;
-        height: 80vh;
-        margin: 5vh auto;
-    }
-}
-
-@media screen and (max-width: 1200px) {
-    body { 
-        font-size: 13px;
-    }
-
-    main {
-        width: 96vw;
-        height: 80vh;
-        margin: 10vh auto;
-    }
-}
